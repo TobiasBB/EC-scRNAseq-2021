@@ -6,7 +6,7 @@ The R code for the bioinformatics analysis is broken into 4 part, corresponding 
 1. Figure 1: Merging, clustering and analysis of entire dataset: xxx.R
 2. Figure 2: Subclustering and analysis of inhibitory interneurons: xxx.R
 3. Figure 3 Subclustering and analysis of oligodendrocytes: Fig3_Oligodendrocyte_subanalysis.R
-4. Figure 4 and 5A: Subclustering and analysis of intermediate progenitors and excitatory neurons: xxx.R
+4. Figure 4 and 5A: Subclustering and analysis of intermediate progenitors and excitatory neurons: Fig4-5C_IP-neuron_subanalysis.R
 
 Required version of all dependent packages are stated as the library is loaded.
 
