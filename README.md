@@ -9,5 +9,6 @@ The bioinformatics analysis is broken into 4 part, corresponding to the first 4 
 
 The datasets generated and used for the analysis are available at the NCBI repository with GEO accession number [GSE134482](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134482). The submitted data includes the raw sequencing data as fastq files together with the processed count matrix used in this study.
 
+## Citation
 If you use the code, or data from the publication, then please cite:
 xxx
