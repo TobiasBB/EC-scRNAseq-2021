@@ -72,10 +72,7 @@ outersect <- function(x, y) {
 }
 
 
-dofilter <- T
-
-
-bgtable <- readRDS(input.11)        
+dofilter <- T    
 
 genebgfreq <- rowSums(bgtable[,c("Adult_soupfactor","E70_soupfactor")])/2
 names(genebgfreq) <- rownames(bgtable)
