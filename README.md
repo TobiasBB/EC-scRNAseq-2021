@@ -1,5 +1,5 @@
 # EC-scRNAseq-2021
-ScRNAseq analysis for Decoding the molecular landscape of the developing spatial processing system and production of entorhinal stellate cell-like cells by a direct programming approach.
+ScRNAseq analysis for the paper: **Decoding the molecular landscape of the developing spatial processing system and production of entorhinal stellate cell-like cells by a direct programming approach**.
 
 ## Code for analysis
 The R code for the bioinformatics analysis is broken into 4 part, corresponding to the first 4 main figures:
