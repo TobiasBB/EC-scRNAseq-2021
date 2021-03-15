@@ -8,7 +8,7 @@ The R code for the bioinformatics analysis is broken into 4 part, corresponding 
 3. Figure 3 Subclustering and analysis of oligodendrocytes: Fig3_Oligodendrocyte_subanalysis.R
 4. Figure 4 and 5A: Subclustering and analysis of intermediate progenitors and excitatory neurons: Fig4-5C_IP-neuron_subanalysis.R
 
-Required version of all dependent packages are stated as the library is loaded.
+Required version of all dependent packages are stated as the library is loaded. See methods section of paper for further desciption of the analysis.
 
 ## Availability of data
 The datasets generated and used for the analysis are available at the NCBI repository with GEO accession number [GSE134482](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE134482). The submitted data includes the raw sequencing data as fastq files together with the processed count matrix used in this study.
