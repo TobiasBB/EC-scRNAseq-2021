@@ -77,7 +77,7 @@ dofilter <- T
 genebgfreq <- rowSums(bgtable[,c("Adult_soupfactor","E70_soupfactor")])/2
 names(genebgfreq) <- rownames(bgtable)
 
-genes <- genes <- read.table(file = "Adult_nc_r1_p/genes.tsv" , sep = '\t', header = F)
+genes <- read.table(file = "Adult_nc_r1_p/genes.tsv" , sep = '\t', header = F)
 dalist <- list()
 davar <- list()
 batch <- c()
