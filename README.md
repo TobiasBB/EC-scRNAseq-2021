@@ -3,8 +3,8 @@ ScRNAseq analysis for the paper: **Decoding the molecular landscape of the devel
 
 ## Code for analysis
 The R code for the bioinformatics analysis is broken into 4 part, corresponding to the first 4 main figures:
-1. Figure 1: Merging, clustering and analysis of entire dataset: xxx.R
-2. Figure 2: Subclustering and analysis of inhibitory interneurons: xxx.R
+1. Figure 1: Merging, clustering and analysis of entire dataset: Fig1_Analysis of parent dataset.R
+2. Figure 2: Subclustering and analysis of inhibitory interneurons: Fig2_IN_subanalysis.R
 3. Figure 3 Subclustering and analysis of oligodendrocytes: Fig3_Oligodendrocyte_subanalysis.R
 4. Figure 4 and 5A: Subclustering and analysis of intermediate progenitors and excitatory neurons: Fig4-5C_IP-neuron_subanalysis.R
 
@@ -15,4 +15,4 @@ The datasets generated and used for the analysis are available at the NCBI repos
 
 ## Citation
 If you use the code, or data from the publication, then please cite:
-xxx
+
