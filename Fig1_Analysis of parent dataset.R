@@ -6,13 +6,12 @@
 
 
 #Required functions and libraries
-library(Seurat)
-library(SingleCellExperiment)
-library(Matrix)
-library(scater)
-library(DropletUtils)
-library(scran)
-library(dplyr)
+library(Seurat) # Seurat_2.3.4
+library(SingleCellExperiment) # SingleCellExperiment_1.2.0
+library(Matrix) # Matrix_1.2-14 
+library(scater) # scater_1.8.0 
+library(scran) # scran_1.8.2 
+library(dplyr) # dplyr_0.7.6
 
 
 makeSeuratFromSingleCellExperiment <- function(sce, celllist =c(), assay.raw.data.name="counts", makeSparse=T) {
